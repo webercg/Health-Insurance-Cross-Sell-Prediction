@@ -84,7 +84,7 @@ modelo.
 
 A implementação do modelo de Machine Learning:
 
-● Aumenta as receitas de entre +1.39 mi á +8.71 mi de reais;
+● Aumenta as receitas entre +1.39 mi á +8.71 mi de reais;
 
 ● Entre os clientes sem interesse há uma taxa de conversão +10,75% (35.942 pessoas) após a oferta de desconto de 10% sobre o seguro de saúde. É possível, dessa forma, aumentar a quantidade de pessoas interessadas em +76,9% e quase dobrar a receita atual.
 
