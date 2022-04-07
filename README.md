@@ -92,6 +92,6 @@ Performance e Resultados:
 
 ● O Modelo acerta 97,54% dos clientes interessados;
 
-● A probabilidade do cliente ter interesse dado que o modelo a classificou como interessada é de 29,41%
+● A probabilidade do cliente ter interesse dado que o modelo a classificou como interessada é de 29,41%;
 
 ● O canal de venda que maximiza a probabilidade do cliente aceitar o seguro é sugerido na API.
