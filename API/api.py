@@ -311,8 +311,8 @@ if pagSelecionada == 'Resultados':
 
     st.markdown("A implementação do modelo de Machine Learning:")
 
-    st.markdown("● Aumenta as receitas de entre  +1.39 mi á +8.71 mi de reais;")
-    st.markdown("● Entre os clientes sem interesse há uma taxa de conversão +10,75% (35.942 pessoas) após a oferta de desconto de 10% sobre o seguro de saúde. É possível, dessa forma, aumentar a quantidade de pessoas interessadas em +76,9%;")
+    st.markdown("● Aumenta as receitas de entre  +1,39 mi (reais) á +R$8,71 mi (reais);")
+    st.markdown("● Entre os clientes sem interesse há uma taxa de conversão +10,75% (35.942 pessoas) após a oferta de desconto de 10% sobre o seguro de saúde. É possível, dessa forma, aumentar a quantidade de pessoas interessadas em +76,9% e aumentar a receita em +R$26,23 mi;")
 
     st.markdown("Performance e Resultados:")
     st.markdown("● O Modelo acerta 97,54% dos clientes interessados;")     
