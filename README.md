@@ -19,7 +19,7 @@
 ● Cloud (em breve)  
 ● [Modelo Preditivo](https://github.com/webercg/Health-Insurance-Cross-Sell-Prediction/tree/main/API/model)  
 ● [Dashboard BI](https://github.com/webercg/Health-Insurance-Cross-Sell-Prediction/tree/main/DashBoard-PowerBI)  
-● Apresentação (em breve)  
+● [Apresentação](https://github.com/webercg/Health-Insurance-Cross-Sell-Prediction/tree/main/apresentacao)  
 
 
 ### Contextualização
