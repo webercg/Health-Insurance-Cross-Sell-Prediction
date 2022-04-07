@@ -16,7 +16,7 @@
 
 ● [Análise Exploratória](https://github.com/webercg/Health-Insurance-Cross-Sell-Prediction/tree/main/EDA) <img align="center" alt="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
 ● [Gerenciamento de Tarefas](https://trello.com/b/Nypkyrp3/randomforest)  
-● Cloud (em breve)  
+● Cloud (em desenvolvimento)  
 ● [Modelo Preditivo](https://github.com/webercg/Health-Insurance-Cross-Sell-Prediction/tree/main/API/model)  
 ● [Dashboard BI](https://github.com/webercg/Health-Insurance-Cross-Sell-Prediction/tree/main/DashBoard-PowerBI)  
 ● [Apresentação](https://github.com/webercg/Health-Insurance-Cross-Sell-Prediction/tree/main/apresentacao)  
@@ -66,19 +66,19 @@ modelo.
 
 ### Premissas e pontos para levar em consideração:  
 ● Organização.  
-○ Código.  
-○ Artefatos.  
-○ Documentações.  
+  ○ Código.  
+  ○ Artefatos.  
+  ○ Documentações.  
 ● Tecnologias.  
-○ Explore as diferentes tecnologias e saiba o 
-porquê de cada uma na solução desenvolvida.  
+  ○ Explore as diferentes tecnologias e saiba o 
+  porquê de cada uma na solução desenvolvida.  
 ● Foco na resolução do problema.  
-○ Pense em desenvolver um projeto que tenha 
-valor para o negócio.  
-○ Calcule o impacto do trabalho.  
-○ O seu projeto SEMPRE terá melhorias.  
+  ○ Pense em desenvolver um projeto que tenha 
+  valor para o negócio.  
+  ○ Calcule o impacto do trabalho.  
+  ○ O seu projeto SEMPRE terá melhorias.  
 ● Se possível trazer algo funcionando.  
-○ Uma API, Dashboard, App.  
+  ○ Uma API, Dashboard, App.  
 
 ### Resultados
 
